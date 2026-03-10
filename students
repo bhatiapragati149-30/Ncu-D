@@ -1,0 +1,15 @@
+class students {
+    string name;
+    double marks;
+    Public:
+    Students()
+    {
+        name = "Rahul";
+        marks = 81;
+    }
+    void display();
+    {
+        cout<<"Name is:"<<
+    }
+
+}
